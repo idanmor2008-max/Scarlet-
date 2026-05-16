@@ -181,7 +181,7 @@ export const botConfig = {
     begMax: 100000000,
 
     // Chance to succeed when robbing (0.4 = 40%).
-    robSuccessRate: 0.4,
+    robSuccessRate: 1,
 
     // Jail time after failed rob (milliseconds).
     // 3600000 = 1 hour.
